@@ -1,5 +1,4 @@
 - Hi, I’m Lucas Ueta.
-- I’m interested in neurology and otaku culture.
 - I have experience with...
   - Python
   - Java
