@@ -7,7 +7,6 @@
   - React JS
   - SQL
   - VBA 
-- I’m looking to collaborate on a promising start up.
 - How to reach me: +1 (469) 927-2525.
 
 <!---
