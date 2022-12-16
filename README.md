@@ -1,15 +1,1 @@
-- Hi, I’m Lucas Ueta.
-- I have experience with...
-  - Python
-  - Java
-  - JavaScript
-  - HTML & CSS
-  - React JS
-  - SQL
-  - VBA 
-- How to reach me: +1 (469) 927-2525.
-
-<!---
-tadahiroueta/tadahiroueta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hit me up @ tadahiroueta@gmail.com -- I love talking with strangers
