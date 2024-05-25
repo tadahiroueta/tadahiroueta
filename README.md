@@ -1,4 +1,7 @@
 # Personal Projects
+
+[Websites](#websites) · [Scripts](#scripts) · [Mobile Apps](#mobile-apps)
+
 ## Websites
 - [Bridge America](https://github.com/tadahiroueta/bridge-america) - A high school guide for foreign students
 
