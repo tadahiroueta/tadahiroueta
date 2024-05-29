@@ -30,11 +30,11 @@
 
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- [Game of Life](https://github.com/tadahiroueta/game-of-life) - Description
+- [Game of Life](https://github.com/tadahiroueta/game-of-life) - A plain, Java simulation of Conway's Game of Life
 
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-- [Huffman Coding](https://github.com/tadahiroueta/huffman-coding) - Description
+- [Huffman Coding](https://github.com/tadahiroueta/huffman-coding) - A collection of compression algorithms that I replicated
 
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
