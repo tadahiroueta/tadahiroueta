@@ -38,7 +38,7 @@
 
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-- [Boggle](https://github.com/tadahiroueta/boggle) - Description
+- [Boggle](https://github.com/tadahiroueta/boggle) - A Java-based game of Boggle with an AI opponent and calculated perfect solutions
 
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
