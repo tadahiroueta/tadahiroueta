@@ -44,7 +44,7 @@
 
 ## [Mobile Apps](https://github.com/stars/tadahiroueta/lists/mobile-apps)
 
-- [Wordle](https://github.com/tadahiroueta/wordle) - Description
+- [Wordle](https://github.com/tadahiroueta/wordle) - My adaptation of iOS adaptation of [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
     ![UIkit](https://img.shields.io/badge/uikit-2581d0?style=for-the-badge&logo=uikit&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
