@@ -30,6 +30,10 @@
 
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+- [Student Loans](https://github.com/tadahiroueta/student-loans) - R generated Dot Density Map for federal student loans by university
+
+    ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 ## [Crawlers](https://github.com/stars/tadahiroueta/lists/crawlers)
 
 - [CollegeVine Scraper](https://github.com/tadahiroueta/collegevine-scraper) - Scraper for personalised CollegeVine data and chances on specified universities
